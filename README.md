@@ -1,0 +1,2 @@
+# teatestnetbinancefunding
+tea testnet run 
